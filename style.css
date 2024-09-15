@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+header{
+    text-align: center;
+    background-color:aqua;
+    padding: 10px;
+}
+h1, nav{
+    margin: 10px;
+}
+footer{
+    font-size: large;
+    color: aliceblue;
+    text-align: center;
+    background-color: #333;
+    padding: 10px;
+}
+main{
+    background-color: azure;
+}
+a{
+    color: blueviolet;
+}
+img{
+    margin: 12px;
+    height: 200px;
+    
+}
